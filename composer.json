@@ -1,5 +1,5 @@
 {
-    "name": "danielharper/php-sapb1",
+    "name": "syedhussim/php-sapb1-v2",
     "description": "PHP integration package for SAP Business One",
     "type": "library",
     "require": {
