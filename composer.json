@@ -1,0 +1,9 @@
+{
+    "name": "danielharper/php-sapb1",
+    "description": "PHP integration package for SAP Business One",
+    "type": "library",
+    "require": {
+        "php": ">=8.0",
+        "ext-soap": "*"
+    }
+} 
