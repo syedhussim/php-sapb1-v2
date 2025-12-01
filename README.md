@@ -1,5 +1,5 @@
 # SAPb1 (Version 2)
-A simple and easy to use PHP library for SAP Business One Service Layer API. This documentation is also available at https://youtu.be/ADnmzLQ4ifU 
+A simple and easy to use PHP library for SAP Business One Service Layer API.
 
 ## Usage
 Create an array to store your SAP Business One Service Layer configuration details. 
